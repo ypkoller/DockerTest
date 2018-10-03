@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 03 16:37:40 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0166-3a5c-ee40-00001597e678 
+on database directory memory:C:\Users\yves\workspace\jetty\Avectris2\unit-testing-jpa with class loader WebAppClassLoader=1303122461@4dac121d 
+Loaded from file:/C:/Users/yves/workspace/jetty/Avectris2/target/Avectris2-0.0.1-SNAPSHOT/WEB-INF/lib/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Users\yves\workspace\jetty\Avectris2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
